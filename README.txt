@@ -1,11 +1,4 @@
 
-
-DBMS Assignment submission
-Group  : 2
-------------------------------
-Roles of different files
-------------------------------
-
 app.py :      Main application file to be run
 parser.py :   GML parser
 iitkgp.gml :  GML input file
